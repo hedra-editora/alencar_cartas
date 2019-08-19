@@ -1,0 +1,24 @@
+\select@language {brazilian}
+\hyphenpenalty =10000\thispagestyle {empty}
+\contentsline {chapter}{Introdução, por Tâmis Parron}{7}
+\contentsline {section}{política da escravidão}{9}
+\contentsline {subsection}{O grupo saquarema}{11}
+\contentsline {subsection}{A oposição}{13}
+\contentsline {section}{Erasmo de Roterdã e José de Alencar}{14}
+\contentsline {section}{a história como lei natural}{15}
+\contentsline {section}{escravidão e progresso humano}{18}
+\contentsline {section}{justificativas para a escravidão}{23}
+\contentsline {subsection}{Cultura e raça}{23}
+\contentsline {subsection}{Questão político"-social}{25}
+\contentsline {subsection}{Economia}{28}
+\contentsline {subsection}{Identidade nacional}{28}
+\contentsline {section}{literatura, política e escravidão}{29}
+\contentsline {section}{Um espelho para D.~Pedro \textsc {ii}}{34}
+\contentsline {chapter}{Primeira Carta}{39}
+\contentsline {chapter}{Segunda carta}{57}
+\contentsline {chapter}{Terceira Carta}{81}
+\contentsline {chapter}{Quarta Carta}{103}
+\contentsline {chapter}{Quinta Carta}{125}
+\contentsline {chapter}{Sexta Carta}{143}
+\contentsline {chapter}{Última Carta}{161}
+\contentsfinish 
