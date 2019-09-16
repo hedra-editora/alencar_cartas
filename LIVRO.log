@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  2 SEP 2019 18:22
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Arch Linux)  (format=lualatex 2017.10.31)  16 SEP 2019 13:35
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -34,7 +34,7 @@ Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font
 '.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'
 .
-luaotfload | main : initialization completed in 0.236 seconds
+luaotfload | main : initialization completed in 0.250 seconds
 Babel <3.12> and hyphenation patterns for 1 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
 Document Class: memoir 2016/05/16 v3.7f configurable book, report, article docum
@@ -1870,12 +1870,6 @@ AED: lastpage setting LastPage
 
 \openout2 = PUBLICIDADE.aux
 (./PUBLICIDADE.tex
-
-LaTeX Font Warning: Font shape `TU/Formular-Regular(0)/bx/sc' undefined
-(Font)              using `TU/Formular-Regular(0)/bx/n' instead on input line 7.
-
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 7--8
 
  []
@@ -1892,22 +1886,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 7--8
 \tf@toc=\write7
 
 \openout7 = LIVRO.toc
- (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux))
-
-LaTeX Font Warning: Some font shapes were not available, defaults substituted.
-
-)
+ (./LIVRO.aux (./INPUTS.aux) (./PUBLICIDADE.aux)))
 
 Here is how much of LuaTeX's memory you used:
- 24586 strings out of 494472
+ 24579 strings out of 494472
  100000,794899 words of node,token memory allocated
  3920 words of node memory still in use:
    4 hlist, 1 vlist, 1 rule, 163 glue, 1 penalty, 660 attribute, 197 glue_spec, 
 165 attribute_list, 3 shape, 2 write nodes
    avail lists: 1:2,2:1647,3:128,4:56,5:375,6:4197,7:1052,8:56,9:213,10:26,11:54
 5
- 27442 multiletter control sequences out of 65536+600000
- 117 fonts using 23128467 bytes
+ 27438 multiletter control sequences out of 65536+600000
+ 116 fonts using 23030851 bytes
  50i,14n,70p,1369b,467s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}</home/editorial/
 texmf/tex/fonts/Formular-Regular.otf></usr/share/texmf-dist/fonts/opentype/publi
@@ -1916,7 +1906,7 @@ ertine/LinLibertine_RB.otf></usr/share/texmf-dist/fonts/opentype/public/libertin
 e/LinLibertine_R.otf></home/editorial/texmf/tex/fonts/Formular-Bold.otf></usr/sh
 are/texmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texmf-di
 st/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb>
-Output written on LIVRO.pdf (180 pages, 492575 bytes).
+Output written on LIVRO.pdf (180 pages, 493090 bytes).
 
 PDF statistics: 613 PDF objects out of 1000 (max. 8388607)
  409 compressed objects within 5 object streams
