@@ -1,7 +1,7 @@
 \select@language {brazilian}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {chapter}{Introdução, por Tâmis Parron}{7}
-\contentsline {section}{política da escravidão}{9}
+\contentsline {chapter}{Introdução, \emph {por Tâmis Parron}}{7}
+\contentsline {section}{política da escravidão}{10}
 \contentsline {subsection}{O grupo saquarema}{11}
 \contentsline {subsection}{A oposição}{13}
 \contentsline {section}{Erasmo de Roterdã e José de Alencar}{14}
@@ -14,11 +14,12 @@
 \contentsline {subsection}{Identidade nacional}{28}
 \contentsline {section}{literatura, política e escravidão}{29}
 \contentsline {section}{Um espelho para D.~Pedro \textsc {ii}}{34}
-\contentsline {chapter}{Primeira Carta}{39}
-\contentsline {chapter}{Segunda carta}{57}
-\contentsline {chapter}{Terceira Carta}{81}
-\contentsline {chapter}{Quarta Carta}{103}
-\contentsline {chapter}{Quinta Carta}{125}
-\contentsline {chapter}{Sexta Carta}{143}
-\contentsline {chapter}{Última Carta}{161}
+\contentsline {part}{Cartas a favor da escravidão}{39}
+\contentsline {chapter}{Primeira Carta}{41}
+\contentsline {chapter}{Segunda Carta}{59}
+\contentsline {chapter}{Terceira Carta}{83}
+\contentsline {chapter}{Quarta Carta}{105}
+\contentsline {chapter}{Quinta Carta}{127}
+\contentsline {chapter}{Sexta Carta}{145}
+\contentsline {chapter}{Última Carta}{163}
 \contentsfinish 
