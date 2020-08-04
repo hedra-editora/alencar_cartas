@@ -14,7 +14,7 @@
 \contentsline {subsection}{Identidade nacional}{29}
 \contentsline {section}{literatura, política e escravidão}{30}
 \contentsline {section}{Um espelho para D.~Pedro \textsc {ii}}{35}
-\contentsline {part}{Cartas a favor da escravidão}{39}
+\contentsline {part}{\textsc {cartas a favor da escravidão}}{39}
 \contentsline {chapter}{Primeira Carta}{41}
 \contentsline {chapter}{Segunda Carta}{59}
 \contentsline {chapter}{Terceira Carta}{83}
