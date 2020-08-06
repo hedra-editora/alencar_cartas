@@ -1,25 +1,25 @@
 \babel@toc {brazilian}{}
 \hyphenpenalty =10000\thispagestyle {empty}
-\contentsline {chapter}{Introdução, \emph {por Tâmis Parron}}{7}
-\contentsline {section}{política da escravidão}{10}
-\contentsline {subsection}{O grupo saquarema}{11}
-\contentsline {subsection}{A oposição}{13}
-\contentsline {section}{Erasmo de Roterdã e José de Alencar}{15}
-\contentsline {section}{a história como lei natural}{16}
-\contentsline {section}{escravidão e progresso humano}{18}
-\contentsline {section}{justificativas para a escravidão}{23}
-\contentsline {subsection}{Cultura e raça}{23}
-\contentsline {subsection}{Questão político"-social}{25}
-\contentsline {subsection}{Economia}{28}
-\contentsline {subsection}{Identidade nacional}{29}
-\contentsline {section}{literatura, política e escravidão}{30}
-\contentsline {section}{Um espelho para D.\,Pedro \textsc {ii}}{35}
-\contentsline {part}{\textsc {cartas a favor da escravidão}}{39}
-\contentsline {chapter}{Primeira Carta}{41}
-\contentsline {chapter}{Segunda Carta}{59}
-\contentsline {chapter}{Terceira Carta}{83}
-\contentsline {chapter}{Quarta Carta}{107}
-\contentsline {chapter}{Quinta Carta}{129}
-\contentsline {chapter}{Sexta Carta}{147}
-\contentsline {chapter}{Última Carta}{165}
+\contentsline {chapter}{Introdução, \emph {por Tâmis Parron}}{9}
+\contentsline {section}{política da escravidão}{12}
+\contentsline {subsection}{O grupo saquarema}{13}
+\contentsline {subsection}{A oposição}{15}
+\contentsline {section}{Erasmo de Roterdã e José de Alencar}{17}
+\contentsline {section}{a história como lei natural}{18}
+\contentsline {section}{escravidão e progresso humano}{20}
+\contentsline {section}{justificativas para a escravidão}{25}
+\contentsline {subsection}{Cultura e raça}{25}
+\contentsline {subsection}{Questão político"-social}{27}
+\contentsline {subsection}{Economia}{30}
+\contentsline {subsection}{Identidade nacional}{31}
+\contentsline {section}{literatura, política e escravidão}{32}
+\contentsline {section}{Um espelho para D.\,Pedro \textsc {ii}}{37}
+\contentsline {part}{\textsc {cartas a favor da escravidão}}{41}
+\contentsline {chapter}{Primeira Carta}{43}
+\contentsline {chapter}{Segunda Carta}{61}
+\contentsline {chapter}{Terceira Carta}{85}
+\contentsline {chapter}{Quarta Carta}{109}
+\contentsline {chapter}{Quinta Carta}{131}
+\contentsline {chapter}{Sexta Carta}{149}
+\contentsline {chapter}{Última Carta}{167}
 \contentsfinish 

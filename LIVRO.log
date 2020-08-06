@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  4 AUG 2020 20:20
+This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian)  (format=lualatex 2019.9.13)  6 AUG 2020 10:39
  restricted system commands enabled.
 **LIVRO.tex
 (./LIVRO.tex
@@ -1889,64 +1889,68 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 ) [3]
-(./PRETAS.tex) [4
+(./PRETAS.tex(load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/
+fonts/otl/lmmono10-regular.luc) [4
 
-] [5] (./LIVRO.toc) [6]
+]) [5] [6] (./LIVRO.toc) [7]
 \openout2 = INPUTS.aux
- (./INPUTS.tex (./INTRO.tex
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 21.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 24.
- [7
+ (./INPUTS.tex
+(./INTRO.tex [8
 
 
 
 ]
-[8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22]
-[23](load luc: /home/edlab/.texlive2017/texmf-var/luatex-cache/generic/fonts/otl
-/lmmono10-regular.luc) [24] [25] [26] [27] [28] [29] [30] [31]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 24.
+ [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20]
+[21] [22] [23] [24] [25] [26] [27] [28] [29] [30] [31] [32] [33]
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 674.
- [32] [33]
-[34] [35] [36] [37]) (./TEXTO.tex [38] [39
+ [34] [35]
+[36] [37] [38] [39]) (./TEXTO.tex [40] [41
 
-] [40] [41
+] [42] [43
 
-] [42] [43] [44] [45]
-[46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59
+] [44] [45] [46] [47]
+[48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58] [59] [60] [61
 
-] [60]
-[61] [62]
+] [62]
+[63] [64]
 Underfull \hbox (badness 2368) in paragraph at lines 651--656
 []\TU/LinuxLibertineO(0)/m/n/12 Con-frange o es-pí-rito pú-blico um res-sen-t
 i-mento
  []
 
-[63] [64] [65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77]
-[78] [79] [80] [81] [82
+[65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79]
+[80] [81] [82] [83] [84
 
-] [83] [84] [85] [86] [87] [88] [89] [90] [91] [92]
-[93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106
+] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94]
+[95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107]
+[108
+
+] [109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119]
+[120] [121] [122] [123] [124] [125] [126] [127] [128] [129] [130] [131
 
 ]
-[107] [108] [109] [110] [111] [112] [113] [114] [115] [116] [117] [118]
-[119] [120] [121] [122] [123] [124] [125] [126] [127] [128] [129
+[132] [133] [134] [135] [136] [137] [138] [139] [140] [141] [142] [143]
+[144] [145] [146]
+Underfull \hbox (badness 10000) in paragraph at lines 2835--2838
 
-] [130]
-[131] [132] [133] [134] [135] [136] [137] [138] [139] [140] [141] [142]
-[143] [144] [145] [146] [147
+ []
 
-] [148] [149] [150] [151] [152] [153] [154]
-[155] [156] [157] [158] [159] [160] [161] [162] [163] [164] [165
+[147] [148] [149
 
-] [166]
-[167] [168] [169] [170] [171])) [172] (./LIVRO.ind)
+] [150] [151] [152] [153] [154] [155] [156] [157] [158]
+[159] [160] [161] [162] [163] [164] [165] [166] [167
 
+] [168] [169] [170]
+[171] [172] [173])) [174] (./LIVRO.ind) 
 AED: lastpage setting LastPage
 
 \openout2 = PUBLICIDADE.aux
-(/home/edlab/texmf/tex/PUBLICIDADE.tex [173
+(/home/edlab/texmf/tex/PUBLICIDADE.tex [175
 
 
 
@@ -1955,7 +1959,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 6--8
 
  []
 
-[174] [175] [176] [177]) [178
+[176] [177] [178] [179]) [180
 
 
 ]
@@ -1969,15 +1973,15 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 )
 
 Here is how much of LuaTeX's memory you used:
- 25617 strings out of 494480
- 1455491,953878 words of node,token memory allocated
- 1368526 words of node memory still in use:
-   4 hlist, 1 vlist, 1 rule, 163 glue, 1 penalty, 213595 glyph, 36294 attribute,
- 197 glue_spec, 6049 attribute_list, 3 shape, 2 write nodes
+ 25620 strings out of 494480
+ 1455496,953878 words of node,token memory allocated
+ 1369788 words of node memory still in use:
+   4 hlist, 1 vlist, 1 rule, 163 glue, 1 penalty, 213705 glyph, 36552 attribute,
+ 197 glue_spec, 6092 attribute_list, 3 shape, 2 write nodes
    avail lists: 1:2,2:2779,3:206,4:111,5:379,6:1223,7:1075,8:63,9:329,10:28,11:5
 95
- 28392 multiletter control sequences out of 65536+600000
- 122 fonts using 23610171 bytes
+ 28394 multiletter control sequences out of 65536+600000
+ 123 fonts using 23736259 bytes
  50i,12n,85p,1369b,488s stack positions out of 5000i,500n,10000p,200000b,100000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/adforn/OrnementsADF.enc}{/usr/sha
 re/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist
@@ -1989,10 +1993,10 @@ ist/fonts/opentype/public/libertine/LinLibertine_R.otf></usr/share/texlive/texmf
 xmf-dist/fonts/type1/arkandis/adforn/OrnementsADF.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/public/amsfonts/latxfont/lcirclew.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on LIVRO.pdf (178 pages, 526812 bytes).
+Output written on LIVRO.pdf (180 pages, 529179 bytes).
 
-PDF statistics: 619 PDF objects out of 1000 (max. 8388607)
- 413 compressed objects within 5 object streams
+PDF statistics: 625 PDF objects out of 1000 (max. 8388607)
+ 417 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
